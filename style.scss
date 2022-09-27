@@ -1,0 +1,72 @@
+.container {
+  width: 1000px;
+  padding: 30px;
+  display: flex;
+  justify-content: center;
+
+  margin-right: auto;
+  margin-left: auto;
+  flex-direction: column;
+
+  // .container__item
+
+  &__item {
+    padding: 20px;
+    border: 1px solid orange;
+    border-radius: 20px;
+    margin-top: 20px;
+  }
+}
+
+// .name-header { //reserved for better days
+// }
+// .contact-info {
+// }
+// .item {
+//   // .item__header
+
+//   &__header {
+//   }
+
+//   // .item__list
+
+//   &__list {
+//   }
+
+//   // .item__text
+
+//   &__text {
+//   }
+
+//   // .item__link
+
+//   &__link {
+//   }
+
+//   // .item__subheader
+
+//   &__subheader {
+//   }
+// }
+// .list {
+// }
+// .summary {
+// }
+// .summary-text {
+// }
+// .skills {
+// }
+// .experience {
+// }
+// .exp-text {
+// }
+// .github-link {
+// }
+// .education {
+// }
+// .edu-subheader {
+// }
+// .codewars-link {
+// }
+// .languages {
+// }
