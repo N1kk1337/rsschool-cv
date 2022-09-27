@@ -24,3 +24,25 @@ I'm an enthusiastic and detail-oriented Frontend Software Engineer seeking an en
 ## Working Experience
 
 I am learning frontend technologies for 6 months.
+
+## Code Examples
+
+https://github.com/N1kk1337
+
+## Education
+
+### [KTS School](https://metaclass.kts.studio/)
+
+- React course
+
+### freecodecamp.org
+
+- Responsive Web Design
+- JavaScript Algorithms and Data Structures
+
+[CodeWars Profile](https://www.codewars.com/users/rsschool_9f94aac6895c0ed1)
+
+## Languages
+
+- Russian - native
+- English - B2
